@@ -1,7 +1,9 @@
 # Hi, I'm Jonathan 👋  
 
-🚀 **Chief Operating & Product Officer at Handshaik**  
-💡 **Operating Partner (Product & Product Marketing) at Port Growth Partners**  
+🚀 **Chief Operating & Product Officer at [Handshaik](https://github.com/Handshaik)**  
+💡 **Operating Partner (Product & Product Marketing) at [Port Growth Partners](https://portgrowthpartners.com)**  
+👨‍💻 **Vibe Coder at [erro0r.dev](https://github.com/err0r-dev)**
+
 📍 Based in the UK  
 
 ---
